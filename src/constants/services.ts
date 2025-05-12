@@ -1,31 +1,27 @@
-import {
-    web, mobile, backend, creator
-} from '../assets';
+import { web, mobile, backend, creator } from "../assets";
 
 export interface servicesProps {
-    title: string;
-    icon: string;
+  title: string;
+  icon: string;
 }
 
-
-
 const services: servicesProps[] = [
-    {
-        title: "Web\nDeveloper",
-        icon: web,
-    },
-    {
-        title: "App\nDeveloper",
-        icon: mobile,
-    },
-    {
-        title: "Backend\nDeveloper",
-        icon: backend,
-    },
-    {
-        title: "ML / DL\nDeveloper",
-        icon: creator,
-    },
+  {
+    title: "ML & Data Pipeline\nArchitect",
+    icon: creator,
+  },
+  {
+    title: "AI/ML\nEngineer",
+    icon: backend,
+  },
+  {
+    title: "Backend & Data\nEngineer",
+    icon: mobile,
+  },
+  {
+    title: "Web & App\nDeveloper",
+    icon: web,
+  },
 ];
 
 export default services;
