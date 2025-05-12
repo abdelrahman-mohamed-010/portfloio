@@ -1,18 +1,3 @@
-import {
-  flutter,
-  nextjs,
-  githubtech,
-  typescript,
-  reactjs,
-  redux,
-  tailwind,
-  nodejs,
-  mongodb,
-  threejs,
-  git,
-  figma,
-  docker,
-} from "../assets";
 
 interface technologiesProps {
   name: string;
