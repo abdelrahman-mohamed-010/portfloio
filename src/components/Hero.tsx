@@ -11,7 +11,7 @@ const Hero = () => {
         </div>
         <div>
           <h1 className="font-black text-white lg:text-[80px] sm:text-[60px] xs:text-[50px] text-[40px] lg:leading-[98px] mt-2  animate__animated animate__fadeInLeft">
-            Hi, I'm <span className="text-[#915EFF]">Ramazan</span>👋
+            Hi, I'm <span className="text-[#915EFF]">DANYLO HRYSHAIEV</span>👋
           </h1>
           <p className=" font-medium lg:text-[30px] sm:text-[26px] xs:text-[20px] text-[16px] lg:leading-[40px] mt-2 text-white-100 animate__animated animate__fadeInLeft animate__delay-1s">
             I develop AI-powered solutions and intelligent applications{" "}

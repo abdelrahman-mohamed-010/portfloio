@@ -29,8 +29,10 @@ const Navbar = () => {
             className="w-12 h-12 object-contain animate__animated animate__fadeInLeft"
           />
           <p className="text-white text-[18px] font-bold cursor-pointer animate__fadeInLeft animate__animated animate__delay-1s flex">
-            Ramazan &nbsp;
-            <span className="sm:block hidden ">| &nbsp; Software Engineer</span>
+            DANYLO &nbsp;
+            <span className="sm:block hidden ">
+              | &nbsp; AI/ML | Data Science | AI Agent | Automation Specialist
+            </span>
           </p>
         </Link>
         <ul className="list-none hidden sm:flex flex-row gap-10">
